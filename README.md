@@ -1,7 +1,7 @@
 # Blog Review of "RL-GPT: Integrating Reinforcement Learning and Code-as-Policy (NeurIPS 2024) Blog"
 
 *January 9, 2025*
-## Reviewers : Group-9 (Wasif Jalal Galib-1905084, Md Nafiu Rahman-1905077, Shahriar Raj-1905105)
+### <i>Reviewers : Group-9 (Wasif Jalal Galib-1905084, Md Nafiu Rahman-1905077, Shahriar Raj-1905105)</i>
 
 ---
 
